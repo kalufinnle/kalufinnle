@@ -1,8 +1,7 @@
 ### Hi there 👋 My Name is KaLu Kevin. 
 
-✨ ✨ 
-
-## I'm a ML & DevOp Developer!
+✨                                    ✨ 
+## I'm a ML & DevOp Developer
 - 🔭 I Work on Deep Learning, Machine Learning, Data Science Projects.
 - 🦇 I Like `Dark_Mode` and Mostly Work in Night.
 - 🎧 Love to listen to musicForProgramming()  
