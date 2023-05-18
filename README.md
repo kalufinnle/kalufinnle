@@ -2,7 +2,7 @@
                                    
 ## I am a ML & DevOp Developer
 - 🔭 10 years experience with Deep Learning, Machine Learning, Data Science Projects.
-- 🦇 `Terminal` and `Dark_Mode` is my favorite and I Work in Night.
+- 🦇 `Terminal` and `Dark_Mode` is my favorite and I work at night.
 - 🎧 whisper().musicForProgramming()  
 
 ### Languages and Tools: 
