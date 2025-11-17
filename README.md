@@ -1,6 +1,6 @@
 ### ✨Hi there 👋 My Name is KL (KaLu).
                                    
-## I am a Machine Learning & DevOp Manager
+## I manage Machine Learning and DevOps teams.
 - 🔭 Proficient in managing projects in Natural language programming, Deep learning, Machine learning, and Data science projects, with a decade of hands-on experience.
 - 🦇 `Terminal` and `Dark mode` is my preferred choice, and I enjoy programming at night.
 - 🎧 whisper().musicForProgramming()  
