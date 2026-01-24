@@ -1,4 +1,4 @@
-### ✨Hi there 👋 My  Name is KaLu.
+### ✨Hi there 👋 My  Name is FinnLe.
                                    
 ## Leading GenAI, DS, ML and DevOps teams.
 - 🔭 10+ years building solutions in Machine Learning, GenAI, and Data Science.
