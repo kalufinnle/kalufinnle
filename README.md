@@ -1,7 +1,7 @@
 ### Hi, I am FL FinnLe.
 
 ## GenAI, ML, and DevOps Engineering
-- 10+ years delivering production-grade solutions across GenAI, Machine Learning, and Data Science.
+- 10+ years delivering production-grade solutions across Machine Learning, Data Science, and GenAI.
 - `terminal-first`, `dark-mode` by default, and automation over repetition.
 - Building reliable products end-to-end: from model experimentation to production deployment.
 
