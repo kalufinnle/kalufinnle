@@ -1,4 +1,4 @@
-### Hi, I am FinnLe.
+### Hi, I am FL FinnLe.
 
 ## GenAI, ML, and DevOps Engineering
 - 10+ years delivering production-grade systems across GenAI, Machine Learning, and Data Science.
